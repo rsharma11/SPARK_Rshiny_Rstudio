@@ -1,6 +1,6 @@
 # SPARK_Rshiny_Rstudio (https://hub.docker.com/r/angelsevillacamins/spark-rstudio-shiny/)
 
-## Step 1
+## Step 1 : Pull image from Docker hub
 docker pull angelsevillacamins/spark-rstudio-shiny
 
 ## Step 2 : Create a network
